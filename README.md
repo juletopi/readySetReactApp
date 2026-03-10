@@ -89,6 +89,7 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 
 ## Como rodar
 
+> [!IMPORTANT]
 > Certifique-se de ter os seguintes requisitos antes de iniciar:
 >
 > <a href="https://nodejs.org/">
