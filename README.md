@@ -102,7 +102,7 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
    <img src="https://img.shields.io/badge/Expo%20CLI-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoCLI-badge">
 </a>
 
-<br>
+<br><br>
 
 1. Clone o repositório
 ```bash
