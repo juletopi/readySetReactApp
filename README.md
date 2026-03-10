@@ -11,7 +11,7 @@ https://getemoji.com
 
 <div align="center">
    <a href="">
-      <img src="docs/logo.png" alt="ReadySetReact-Logo" width="230px" title="ReadySetReact Logo">
+      <img src="docs/logo.png" alt="ReadySetReact-Logo" width="280px" title="ReadySetReact Logo">
    </a>
    <h2 align="center">ReadySetReact</h2>
    <p align="center">
@@ -21,20 +21,22 @@ https://getemoji.com
 
 <div align="center">
    <a href="https://reactnative.dev/">
-      <img src="https://img.shields.io/badge/Made%20with%20framework:-React%20Native%20-gray.svg?colorA=61DAFB&colorB=20232A&style=for-the-badge" alt="ReactNative-badge" style="max-width: 100%;">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative-badge" style="max-width: 100%;">
    </a>
    <a href="https://expo.dev/">
       <img src="https://img.shields.io/badge/Expo-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="Expo-badge" style="max-width: 100%;">
    </a>
-   <a href="https://nodejs.org/">
-      <img src="https://img.shields.io/badge/Node.js-16.0.0+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node-badge" style="max-width: 100%;">
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript-badge" style="max-width: 100%;">
    </a>
 </div>
 
 <br>
 
 <div align="center">
-   <a href="#instalação">Instalação</a> &#xa0; • &#xa0;
+   <a href="#sobre-o-projeto">Sobre</a> &#xa0; • &#xa0;
+   <a href="#tecnologias-utilizadas">Stack</a> &#xa0; • &#xa0;
+   <a href="#como-rodar">Como rodar</a> &#xa0; • &#xa0;
    <a href="#licença">Licença</a>
 </div>
 
@@ -64,25 +66,6 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
    <h6><a href="#readysetreact"> Voltar para o início ↺</a></h6>
 </div>
 
-## Requisitos
-
-> [!IMPORTANT]
-> Certifique-se de ter os seguintes requisitos antes de iniciar:
-
-<a href="https://nodejs.org/">
-   <img src="https://img.shields.io/badge/Node.js-16.0.0+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node-badge">
-</a>
-<a href="https://www.npmjs.com/">
-   <img src="https://img.shields.io/badge/NPM-8.0.0+-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM-badge">
-</a>
-<a href="https://expo.dev/">
-   <img src="https://img.shields.io/badge/Expo%20CLI-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoCLI-badge">
-</a>
-
-<div align="left">
-   <h6><a href="#readysetreact"> Voltar para o início ↺</a></h6>
-</div>
-
 ## Tecnologias utilizadas
 
 <a href="https://reactnative.dev/">
@@ -104,7 +87,22 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 
 <!-- INSTALLATION -->
 
-## Instalação
+## Como rodar
+
+> [!IMPORTANT]
+> Certifique-se de ter os seguintes requisitos antes de iniciar:
+
+<a href="https://nodejs.org/">
+   <img src="https://img.shields.io/badge/Node.js-16.0.0+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node-badge">
+</a>
+<a href="https://www.npmjs.com/">
+   <img src="https://img.shields.io/badge/NPM-8.0.0+-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM-badge">
+</a>
+<a href="https://expo.dev/">
+   <img src="https://img.shields.io/badge/Expo%20CLI-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoCLI-badge">
+</a>
+
+<br>
 
 1. Clone o repositório
 ```bash
@@ -117,7 +115,7 @@ cd ReadySetReact_Project
 npm install
 ```
 
-3. Instale o Expo CLI (caso não tenha)
+3. Instale o Expo CLI globalmente (caso não tenha)
 ```bash
 npm install -g expo-cli
 ```
@@ -127,7 +125,7 @@ npm install -g expo-cli
 npm start
 ```
 
-5. Escaneie o QR code com o app Expo Go no seu celular ou rode no emulador.
+5. Abra no dispositivo escaneando o QR code com o **Expo Go**, ou pressione `w` para abrir no navegador.
 
 <div align="left">
    <h6><a href="#readysetreact"> Voltar para o início ↺</a></h6>
