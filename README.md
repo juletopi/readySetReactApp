@@ -89,20 +89,17 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 
 ## Como rodar
 
-> [!IMPORTANT]
 > Certifique-se de ter os seguintes requisitos antes de iniciar:
-
-<a href="https://nodejs.org/">
-   <img src="https://img.shields.io/badge/Node.js-16.0.0+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node-badge">
-</a>
-<a href="https://www.npmjs.com/">
-   <img src="https://img.shields.io/badge/NPM-8.0.0+-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM-badge">
-</a>
-<a href="https://expo.dev/">
-   <img src="https://img.shields.io/badge/Expo%20CLI-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoCLI-badge">
-</a>
-
-<br><br>
+>
+> <a href="https://nodejs.org/">
+>    <img src="https://img.shields.io/badge/Node.js-16.0.0+-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node-badge">
+> </a>
+> <a href="https://www.npmjs.com/">
+>    <img src="https://img.shields.io/badge/NPM-8.0.0+-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM-badge">
+> </a>
+> <a href="https://expo.dev/">
+>    <img src="https://img.shields.io/badge/Expo%20CLI-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoCLI-badge">
+> </a>
 
 1. Clone o repositório
 ```bash
