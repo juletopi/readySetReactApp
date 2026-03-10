@@ -35,8 +35,7 @@ https://getemoji.com
 
 <div align="center">
    <a href="#sobre-o-projeto">Sobre</a> &#xa0; • &#xa0;
-   <a href="#tecnologias-utilizadas">Stack</a> &#xa0; • &#xa0;
-   <a href="#como-rodar">Como rodar</a> &#xa0; • &#xa0;
+   <a href="#instalação">Instalação</a> &#xa0; • &#xa0;
    <a href="#licença">Licença</a>
 </div>
 
@@ -62,23 +61,19 @@ O **ReadySetReact** é inspirado em jogos como Flexbox Froggy e propõe desafios
 
 Cada fase apresenta uma pergunta, um terminal de código para completar e uma visualização do resultado.
 
-<div align="left">
-   <h6><a href="#readysetreact"> Voltar para o início ↺</a></h6>
-</div>
-
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 <a href="https://reactnative.dev/">
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative-badge">
+   <img src="https://img.shields.io/badge/React_Native-0.81+-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative-badge">
 </a>
 <a href="https://reactnavigation.org/">
-   <img src="https://img.shields.io/badge/React_Navigation-20232A?style=for-the-badge&logo=react&logoColor=white" alt="ReactNavigation-badge">
+   <img src="https://img.shields.io/badge/React_Navigation-7+-20232A?style=for-the-badge&logo=react&logoColor=white" alt="ReactNavigation-badge">
 </a>
 <a href="https://docs.expo.dev/versions/latest/sdk/linear-gradient/">
-   <img src="https://img.shields.io/badge/Expo_Linear_Gradient-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoLinearGradient-badge">
+   <img src="https://img.shields.io/badge/Expo_Linear_Gradient-15+-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoLinearGradient-badge">
 </a>
 <a href="https://github.com/expo/google-fonts">
-   <img src="https://img.shields.io/badge/Expo_Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="ExpoGoogleFonts-badge">
+   <img src="https://img.shields.io/badge/Expo_Google_Fonts-0.4+-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="ExpoGoogleFonts-badge">
 </a>
 
 <div align="left">
@@ -87,7 +82,7 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 
 <!-- INSTALLATION -->
 
-## Como rodar
+## Instalação
 
 > [!IMPORTANT]
 > Certifique-se de ter os seguintes requisitos antes de iniciar:
