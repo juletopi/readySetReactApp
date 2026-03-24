@@ -69,6 +69,9 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 <a href="https://reactnavigation.org/">
    <img src="https://img.shields.io/badge/React_Navigation-7+-20232A?style=for-the-badge&logo=react&logoColor=white" alt="ReactNavigation-badge">
 </a>
+<a href="https://expo.dev/">
+   <img src="https://img.shields.io/badge/Expo-54+-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="Expo-badge">
+</a>
 <a href="https://docs.expo.dev/versions/latest/sdk/linear-gradient/">
    <img src="https://img.shields.io/badge/Expo_Linear_Gradient-15+-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoLinearGradient-badge">
 </a>
