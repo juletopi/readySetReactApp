@@ -73,7 +73,7 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
    <img src="https://img.shields.io/badge/Expo_Linear_Gradient-15+-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoLinearGradient-badge">
 </a>
 <a href="https://github.com/expo/google-fonts">
-   <img src="https://img.shields.io/badge/Expo_Google_Fonts-0.4+-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white" alt="ExpoGoogleFonts-badge">
+   <img src="https://img.shields.io/badge/Expo_Google_Fonts-0.4+-5A29E4?style=for-the-badge&logo=expo&logoColor=white" alt="ExpoGoogleFonts-badge">
 </a>
 
 <div align="left">
