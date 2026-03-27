@@ -34,7 +34,7 @@ https://getemoji.com
 <br>
 
 <div align="center">
-   <a href="#sobre-o-projeto">Sobre</a> &#xa0; • &#xa0;
+   <a href="#sobre-o-to">Sobre</a> &#xa0; • &#xa0;
    <a href="#instalação">Instalação</a> &#xa0; • &#xa0;
    <a href="#licença">Licença</a>
 </div>
@@ -102,8 +102,8 @@ Cada fase apresenta uma pergunta, um terminal de código para completar e uma vi
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/juletopi/ReadySetReact_Project.git
-cd ReadySetReact_Project
+git clone https://github.com/juletopi/readySetReactApp.git
+cd readySetReactApp
 ```
 
 2. Instale as dependências do projeto
@@ -131,7 +131,7 @@ npm start
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/juletopi/ReadySetReact_Project/blob/master/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/juletopi/readySetReactApp/blob/master/LICENSE) para mais detalhes.
 
 <div align="left">
    <h6><a href="#readysetreact"> Voltar para o início ↺</a></h6>
